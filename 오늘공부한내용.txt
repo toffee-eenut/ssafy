@@ -1,1 +1,3 @@
 git add,commit,push를 배웠다
+
+list도 배웠어
